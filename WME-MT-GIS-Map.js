@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         WME MT GIS Map
 // @namespace    https://greasyfork.org/users/166860
-// @version      0.5
+// @version      0.6
 // @description  Open a MT GIS map in another window, at the same location as the WME map.  Keeps the location of the GIS map synced to WME.
 // @author       MapOMatic, MacroNav
 // @include     /^https:\/\/(www|beta)\.waze\.com\/(?!user\/)(.{2,6}\/)?editor\/?.*$/
